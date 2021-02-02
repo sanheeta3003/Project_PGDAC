@@ -1,0 +1,22 @@
+﻿
+@using BOL;
+
+<h2><strong>Ration List</strong></h2>
+
+<table width="500" cellpadding="5" cellspacing="0" border="1">
+
+
+    @{ List<Ration> rl = (List<Ration>)this.ViewData["Rlist"];
+        foreach (Ration r in rl)
+        {
+       
+            <tr>
+                <th> @r.goodsName </th>
+                <th> @r.goodsCost </th>
+                <th> @r.goodsQuantity </th>
+
+            </tr>
+            }
+            }
+        
+    </table>

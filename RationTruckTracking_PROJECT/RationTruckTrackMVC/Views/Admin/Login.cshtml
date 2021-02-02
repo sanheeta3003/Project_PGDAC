@@ -1,0 +1,38 @@
+﻿
+@using BOL
+<h2><strong>Admin</strong></h2>
+<h4>My Profile:</h4>
+
+@{ Admin admin = (Admin)this.ViewData["admin"];
+    <table width="500" cellpadding="5" cellspacing="0" border="1">
+        <tr><th>EmployeeId::</th><td>@admin.empID</td></tr>
+        <tr><th>Name:: </th>    <td> @admin.adminName</td></tr>
+        <tr><th>Email:: </th>   <td> @admin.adminEmail </td></tr>
+    </table>
+
+
+
+}
+<h5><strong>Admin Authorities:</strong></h5>
+<ul>
+    Check post contact list & Map
+    <li><a href="/home/check">List of all Maharashtra Check posts</a></li>
+    <li><a href="/home/map">Map of Maharashtra</a></li>
+    Truck related
+    <li><a href="/truck/form">New Truck(for new delivery)</a></li>
+    <li><a href="/truck/index">Get all Truck details</a></li>
+    Tracking related
+    <li><a href="/track/index">All Track Details </a></li>
+    <li><a href="/track/form">Create New track </a></li>
+    <li><a href="/track/index">Delete track </a></li>
+    <li><a href="/track/index">Update track </a></li>
+    <li><a href="/track/Findcity">Track truck by city </a></li>
+    Goods related
+    <li><a href="/ration/form">Insert goods</a></li>
+    <li><a href="/ration/index">Show goods</a></li>
+    <li><a href="/ration/index">Delete goods </a></li>
+    <li><a href="/ration/index">Update Existing goods </a></li>
+    Distributor related
+    <li><a href="/distributors/index">List of all Distributors </a></li>
+    
+</ul>

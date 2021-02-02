@@ -1,0 +1,17 @@
+﻿
+@using BOL
+<h2><strong>Customer</strong></h2>
+<h4>My Profile:</h4>
+
+@{ Customers customer = (Customers)this.ViewData["customer"];
+    <table width="500" cellpadding="5" cellspacing="0" border="1">
+        <tr><th>Address::@customer.customerAddress</th></tr>
+        <tr><th>Name::@customer.customerName</th></tr>
+        <tr><th>Id::@customer.customerId</th></tr>
+        <tr><th>Contact Number::@customer.customerContactNumber</th></tr>
+        </table>
+
+        }
+
+        <a href="/track/Findcity">Where is my truck ?</a>
+        <a href="/distributors/index ">Ration Distributors </a>

@@ -1,0 +1,52 @@
+﻿
+<html>
+<head>
+    <meta charset="utf-8" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+    <title>@ViewBag.Title - Ration Truck Tracker</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body style="background-color: #F7DC6F;">
+    <div style="background-color: #F7DC6F;
+        padding-left: 60px;
+        padding-right: 50px">
+        <img src="~/Images/Daco_4777653.png" align="left" width="100" height="160" />
+        <img src="~/Images/logo.png" align="right" />
+        <h1 style="color:#254117"><strong>Ration Truck Tracking System</strong></h1>
+        <h3 style="color: #9F000F"><strong><i>Know When Your Goods Will Be Delivered!</i></strong></h3>
+        <h4 style="color:#254117"><strong><i>  Know Your Distributor!!</i></strong></h4>
+        <br><br>
+        <marquee STYLE="color: #9F000F"><i>Maza Ration Maza Aaddhikar........!!!!!!! &nbsp; &nbsp;  Help : Contact Toll Free Number - 180088882333 and Email - rationtrucktracker@gov.in</i></marquee>
+    </div>
+    <nav class="navbar navbar-light" style="background-color: #254117;">
+        <a href="#" STYLE="color:#FFFFFF"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#" STYLE="color:#FFFFFF"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#" STYLE="color:#FFFFFF"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#" STYLE="color:#FFFFFF"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#" STYLE="color:#FFFFFF"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#" STYLE="color:#FFFFFF"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="/home" STYLE="color:white;font-size: 18px">Home</a> &nbsp;&nbsp;
+        <a href="/home/about" STYLE="color:#FFFFFF;font-size: 18px">About us</a> &nbsp;&nbsp;
+        <a href="/home/contact" STYLE="color:#FFFFFF;font-size: 18px">Contact us</a> &nbsp;&nbsp;
+        <a href="/home/image" STYLE="color:#FFFFFF;font-size: 18px">Image Gallery</a> &nbsp;&nbsp;
+        <a aria-current="page" href="/home/help" STYLE="color:#FFFFFF;font-size: 18px">Help</a> &nbsp;&nbsp;
+        <a href="#" STYLE="color:#FFFFFF"></a>
+        <a href="#" STYLE="color:#FFFFFF"></a>
+        <a href="#" STYLE="color:#FFFFFF"></a>
+        <a href="#" STYLE="color:#FFFFFF"></a>
+    </nav>
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Tracker</p>
+            </footer>
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>

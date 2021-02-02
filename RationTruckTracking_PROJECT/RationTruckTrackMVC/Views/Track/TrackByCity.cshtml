@@ -1,0 +1,18 @@
+﻿@using BOL;
+
+
+<h2><strong>Details of Ration Truck</strong></h2>
+
+@{ TrackingDetails t = (TrackingDetails)this.ViewData["track"];
+    <table width= "700" cellpadding="10" cellspacing="0" border="1">
+
+        <tr><th>Status :: @t.status</th></tr> 
+        <tr><th>Current Message ::@t.currentMessage </th></tr>
+        <tr><th>Dispatched Date and Time::@t.dispatchedDateTime </th></tr>
+        <tr><th>Estimited Arrival Date and Time ::@t.estimatedArrivalDateTime </th></tr>
+        <tr><th>Truck registration Number::@t.TruckRegNo </th></tr>
+        <tr><th>Destination City ::@t.destinationCity </th></tr>
+
+    </table>
+    }
+

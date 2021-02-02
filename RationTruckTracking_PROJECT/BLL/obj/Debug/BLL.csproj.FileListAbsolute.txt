@@ -1,0 +1,108 @@
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\BLL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\BLL.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\BOL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\MySql.Data.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\Zstandard.Net.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\BouncyCastle.Crypto.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\Ubiety.Dns.Core.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\Renci.SshNet.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Memory.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Buffers.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Hash.xxHash.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Numerics.Vectors.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\BOL.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.dll.config
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\MySql.Data.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\Renci.SshNet.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Memory.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Buffers.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Hash.xxHash.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Numerics.Vectors.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.pdb
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\BLL.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\BLL.pdb
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\BOL.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\MySql.Data.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\Zstandard.Net.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Memory.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Buffers.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\BOL.pdb
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.pdb
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.dll.config
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\MySql.Data.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.pdb
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\Renci.SshNet.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Memory.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Buffers.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\BLL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\BLL.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\BOL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\MySql.Data.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\Zstandard.Net.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\BouncyCastle.Crypto.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\Ubiety.Dns.Core.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\Renci.SshNet.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Memory.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Buffers.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Hash.xxHash.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Numerics.Vectors.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\BOL.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\DAL_RationTruckTracking.dll.config
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\MySql.Data.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\Google.Protobuf.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\Renci.SshNet.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Memory.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Buffers.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Compression.LZ4.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\K4os.Hash.xxHash.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Numerics.Vectors.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\FINAL_COPIES\DOTNET\RationTruckTracking_PROJECT\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,29 @@
+﻿
+@using BOL;
+
+<h2><strong>Tracking Details</strong></h2>
+
+<table width="700" cellpadding="10" cellspacing="2" border="1">
+
+
+    @{ List<TrackingDetails> trackDetl = (List<TrackingDetails>)this.ViewData["trackDetails"];
+        foreach (TrackingDetails td in trackDetl)
+        {
+
+        <tr>
+            <th> @td.TruckRegNo </th>
+            <th> @td.sourceCity </th>
+            <th> @td.destinationCity</th>
+            <th> @td.dispatchedDateTime </th>
+            <th> @td.estimatedArrivalDateTime </th>
+            <th> @td.currentMessage </th>
+            <th> @td.status </th>
+            <th><a href="/track/delete?id=@td.trackingId">Delete</a></th>
+            <th><a href="/track/uform?id=@td.trackingId">Update</a></th>
+
+        </tr>
+
+        }
+    }
+</table>
+<br />

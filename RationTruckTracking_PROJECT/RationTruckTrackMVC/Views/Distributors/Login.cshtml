@@ -1,0 +1,17 @@
+﻿
+@using BOL:
+<table width="500" cellpadding="5" cellspacing="0" border="1">
+    @{ Distributors d = (Distributors)this.ViewData["distributor"];
+
+        <tr><th>Contact Number::@d.distributorContactNumber</th></tr>
+        <tr><th>Name::@d.distributorName </th></tr>
+        <tr><th>Address::@d.distributorAddress </th></tr>
+
+
+
+    }
+    </table>
+    <a href="/distributors/list">Show Ration List</a>
+    <br>
+    <a href="/track/index">Track Details </a>
+    <br>

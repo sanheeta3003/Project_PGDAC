@@ -1,0 +1,10 @@
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BOL\bin\Debug\BOL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BOL\bin\Debug\BOL.pdb
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BOL\obj\Debug\BOL.dll
+F:\CDAC\COLLEGE_DATA\PROJECT_WORK\RationTruckTracking_PROJECT\BOL\obj\Debug\BOL.pdb
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BOL\bin\Debug\BOL.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BOL\bin\Debug\BOL.pdb
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BOL\obj\Debug\BOL.dll
+C:\Users\thakr\Desktop\Project work\RationTruckTracking_PROJECT\BOL\obj\Debug\BOL.pdb

@@ -1,0 +1,47 @@
+﻿
+<h3 style="color:black"><u>New Track</u></h3>
+<br>
+<br>
+
+<div class="container">
+    <div class="jumbotron">
+        <form class="row g-3" action="/track/insert" method="post">
+            <div class="col-12">
+                <label for="input" class="form-label"><strong>Truck registration Number</strong></label>
+                <input type="text" class="form-control" id="input" placeholder="Enter Truck RegNo" name="tnum">
+            </div>
+            <div class="col-12">
+                <label for="input" class="form-label"><strong>Source City</strong></label>
+                <input type="text" class="form-control" id="input" placeholder="Enter Source City" name="scity">
+            </div>
+            <div class="col-12">
+                <label for="input" class="form-label"><strong>Destination City </strong></label>
+                <input type="text" class="form-control" id="input" placeholder="Enter Destination City" name="dcity">
+            </div>
+            <div class="col-12">
+                <label for="input" class="form-label"><strong>Disptched Date and Time</strong></label>
+                <input type="text" class="form-control" id="input" placeholder="Enter 2020-12-24" name="dd">
+            </div>
+            <div class="col-12">
+                <label for="input" class="form-label"><strong>Estimated arrival Date and Time</strong></label>
+                <input type="text" class="form-control" id="input" placeholder="Enter 2020-12-24" name="ed">
+            </div>
+            <div class="col-12">
+                <label for="inputmob" class="form-label"><strong>Status</strong></label>
+                <input type="text" class="form-control" id="mobno" placeholder="eg. Arrived/Delayed/OnTheWay" name="stat">
+            </div>
+            <div class="col-12">
+                <label for="inputAddress" class="form-label"><strong>Current Message</strong></label>
+               <input type="text" class="form-control" id="inputAddress" placeholder="Enter current Message" name="msg"> 
+                    
+               <!-- <TEXTAREA  ROWS="6" NAME="ADR" COLS="25" placeholder="Enter current Message" name="msg"></TEXTAREA> -->
+
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary">Submit</button> &nbsp; <button type="button" class="btn btn-warning">Reset</button>
+            </div>
+
+        </form>
+    </div>
+</div>
+

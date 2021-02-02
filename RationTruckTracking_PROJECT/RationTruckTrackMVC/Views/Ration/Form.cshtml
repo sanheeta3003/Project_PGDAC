@@ -1,0 +1,30 @@
+﻿
+<h3 style="color:black"><u>New Ration</u></h3>
+<br>
+<br>
+
+<div class="container">
+    <div class="jumbotron">
+        <form class="row g-3" action="/ration/insert" method="post">
+            <div class="col-12">
+                <label for="input" class="form-label"><strong>Goods Name</strong></label>
+                <input type="text" class="form-control" id="input" placeholder="Enter Goods Name" name="gname">
+            </div>
+            <div class="col-12">
+                <label for="inputmob" class="form-label"><strong>Goods Cost</strong></label>
+                <input type="number" class="form-control" id="mobno" placeholder="Enter Cost /kg" name="cost">
+            </div>
+            <div class="col-12">
+                <label for="inputAddress" class="form-label"><strong>Goods Quantity</strong></label>
+                <input type="number" class="form-control" id="inputAddress" placeholder="Enter Quantity" name="qtn">
+            </div>
+
+
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary">Submit</button> &nbsp; <button type="button" class="btn btn-warning">Reset</button>
+            </div>
+
+        </form>
+    </div>
+</div>
+

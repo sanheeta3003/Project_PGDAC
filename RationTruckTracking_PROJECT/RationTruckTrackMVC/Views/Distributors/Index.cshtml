@@ -1,0 +1,20 @@
+﻿@using BOL;
+
+
+<h2><strong>List of all Distributors</strong></h2>
+<hr />
+<table width="500" cellpadding="5" cellspacing="0" border="1">
+
+    @{ List<Distributors> v = (List<Distributors>)this.ViewData["Dlist"];
+        foreach (Distributors vnd in v)
+        {
+
+        <tr><th> @vnd.distributorName </th> &nbsp; &nbsp; <th> @vnd.distributorContactNumber </th> &nbsp; &nbsp; <th> @vnd.distributorAddress </th></tr>
+
+            }
+        }
+</table>
+    <br/>
+
+
+   

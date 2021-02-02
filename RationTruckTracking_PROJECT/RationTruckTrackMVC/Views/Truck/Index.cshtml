@@ -1,0 +1,20 @@
+﻿@using BOL;
+
+<h2><strong>List of all Truck Drivers</strong></h2>
+<hr />
+<table width="500" cellpadding="5" cellspacing="0" border="1">
+
+    @{ List<TruckDriverDetails> trk = (List<TruckDriverDetails>)this.ViewData["truck"];
+        foreach (TruckDriverDetails t in trk)
+        {
+
+            <tr>
+                <th> @t.truckDriverName </th> &nbsp; &nbsp;
+                <th> @t.truckRegnoNumber </th> &nbsp; &nbsp;
+                <th> @t.DriverContactNumber </th>
+            </tr>
+        }
+    }
+</table>
+<br />
+
